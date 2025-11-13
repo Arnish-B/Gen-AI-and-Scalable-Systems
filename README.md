@@ -6,7 +6,7 @@
   - [Linux Installation](#linux-installation)
   - [MacOS Installation](#macos-installation)
 - [Changing Embedding Model Base URL](#changing-embedding-model-base-url)
-- [Miscellaneous Links](#other-important-links)
+- [Miscellaneous Links](#miscellaneous-links)
 ---
 ## Astra DB Token Generation
 Follow these steps to generate your Astra DB token:
