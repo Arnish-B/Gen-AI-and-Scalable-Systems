@@ -70,7 +70,9 @@ Visit the [NGROK website](https://ngrok.com) and create an account before procee
 ```
 ---
 ## Changing Embedding Model Base URL
-1.
+1. Use the OPEN AI Embedding model
+2. Click on tools of the component
+3. update the base url to _https://openrouter.ai/api/v1_
 ## Miscellaneous Links
 1. [PPT](https://docs.google.com/presentation/d/1NGlG6n9ivMGOBnWePZs1M37HaE4-H9AHfe74d6kBXYQ/edit?usp=sharing)
 2. [Langflow](https://www.langflow.org/)
