@@ -76,5 +76,6 @@ Visit the [NGROK website](https://ngrok.com) and create an account before procee
 2. [Langflow](https://www.langflow.org/)
 3. [Astra DB](https://astra.datastax.com/)
 4. [NGROK](https://ngrok.com/)
-5. [CDN Animation](https://claude.ai/public/artifacts/7f4f061b-3c5f-4892-8cc7-1682653a5967)
-6. [Scaling Animation](https://k8-sim-bmsce.netlify.app/)
+5. [CDN Animation](https://claude.ai/public/artifacts/2e7d90dd-c384-47f9-885b-2e71f95c369c)
+6. [Data Sharding Animation](https://claude.ai/public/artifacts/7f4f061b-3c5f-4892-8cc7-1682653a5967)
+7. [Scaling Animation](https://k8-sim-bmsce.netlify.app/)
