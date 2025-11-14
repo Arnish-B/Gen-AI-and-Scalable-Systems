@@ -72,7 +72,7 @@ Visit the [NGROK website](https://ngrok.com) and create an account before procee
 ## Changing Embedding Model Base URL
 1.
 ## Miscellaneous Links
-1. [PPT](https://docs.google.com/presentation/d/1duB0jmfTK8qn7b6gsiV5IAVIXowBp1sV3c9rA4NlH-g/edit?usp=sharing)
+1. [PPT](https://docs.google.com/presentation/d/1NGlG6n9ivMGOBnWePZs1M37HaE4-H9AHfe74d6kBXYQ/edit?usp=sharing)
 2. [Langflow](https://www.langflow.org/)
 3. [Astra DB](https://astra.datastax.com/)
 4. [NGROK](https://ngrok.com/)
